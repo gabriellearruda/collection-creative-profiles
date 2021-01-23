@@ -55,7 +55,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/Israel-Laguan.png">
   </details>
-
+  
 ## J
 
 - [Jacques Blom](https://github.com/jacques-blom)
@@ -63,14 +63,13 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/jacques-blom.png">
   </details>
-
-## K
-
-- [Kunware Nakul Singh Bhati](https://github.com/nakulbhati)
+  
+- [Joao Carabetta](https://github.com/JoaoCarabetta)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/nakulbhati.png">
+    <img src="EXAMPLES/Israel-Laguan.png">
   </details>
+
 
 ## M
 
@@ -80,14 +79,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/mgershovitz.png">
   </details>
 
-
-## O
-
-- [OOQQ](https://github.com/OOQQ)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/OOQQ.png">
-  </details>
 
 ## P
 
@@ -158,6 +149,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/Thaiane.png">
   </details>
+  
 - [Tim Burgan](https://github.com/timburgan)
   <details>
     <summary>Preview</summary>
