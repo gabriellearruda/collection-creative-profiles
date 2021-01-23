@@ -63,32 +63,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/jacques-blom.png">
   </details>
-- [Jason Lengstorf](https://github.com/jlengstorf)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/jlengstorf.png">
-  </details>
-- [Jaye Hernandez](https://github.com/jayehernandez)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/jayehernandez.png">
-  </details>
-- [Jessica Lim](https://github.com/jessicalim8)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/JessicaLim8.png">
-  </details>
-- [Joykishan Sharma](https://github.com/JoykishanSharma)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/JoykishanSharma.png">
-  </details>
-- [JayB Kim](https://github.com/kogisin)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/JayB.png">
-  </details>
-
 
 ## K
 
@@ -100,46 +74,10 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 
 ## M
 
-- [Manoj Boddu](https://github.com/manumanoj0010)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/manumanoj0010.png">
-  </details>
-- [Matteas Eden](https://github.com/Matteas-Eden)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/matteas-eden.png">
-  </details>
 - [Maya Gershovitz Bar](https://github.com/mgershovitz)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mgershovitz.png">
-  </details>
-- [Mpho Mphego](https://github.com/mmphego)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/mmphego.png">
-  </details>
-- [Monica Powell](https://github.com/M0nica)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/M0nica.png">
-  </details>
-- [Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/moshfiqrony.png">
-  </details>
-
-- [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/msameerfarooq.jpg">
-  </details>
-- [Murshid Azher](https://github.com/murshidazher)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/murshidazher.png">
   </details>
 
 
@@ -153,43 +91,12 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 
 ## P
 
-- [Pato Montecchiarini](https://github.com/pmontecchiarini)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pmontecchiarini.png">
-  </details>
-- [Pavel Rahman](https://github.com/pavstar619)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pavstar619.png">
-  </details>
-- [Peter Han](https://github.com/peterthehan)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/peterthehan.png">
-  </details>
-- [Piyush Suthar](https://github.com/piyushsuthar)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/piyushsuthar.png">
-  </details>
-- [Platane](https://github.com/platane)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/platane.png">
-  </details>
 - [Pouya Saadeghi](https://github.com/saadeghi)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/saadeghi.png">
 
   Don't try to play it here!
-  </details>
-
-- [Pranjal Gupta](https://github.com/pranjal36)
-  <details>
-  		<summary>Preview</summary>
-  		<img src="EXAMPLES/pranjal36.PNG">
   </details>
 
 - [Pratik Kumar](https://github.com/pr2tik1)
