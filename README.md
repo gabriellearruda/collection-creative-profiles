@@ -2,11 +2,9 @@
 
 Lista pessoal de desenvolvedores com belos READMEs para inspiracão.
 
+This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository, and forked from coderjojo profile. Make your Profile look good & Inspire other's.
+
 Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
-
-This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
-
-Make your Profile look good & Inspire other's.
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
@@ -126,116 +124,12 @@ Make your Profile look good & Inspire other's.
 
 ## B
 
-- [Bayrem Gharsellaoui](https://github.com/kaizoku-oh)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/kaizoku-oh.png">
-  </details>
-- [Bereket Semagn](https://github.com/bereketsemagn)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/BereketSemagn.png">
-  </details>
-- [Bilgehan Gecici](https://github.com/Bgstatic)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Bgstatic.png">
-  </details>
-- [Brian Douglas](https://github.com/bdougie)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/bdougie.png">
-  </details>
 
 ## C
 
-- [Cameron Thompson](https://github.com/cdthomp1)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/cdthomp1.png">
-  </details>
-- [Chiraag Kakar](https://github.com/chiraag-kakar)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/chiraag-kakar.png">
-  </details>
-- [Claudio Wunder](https://github.com/ovflowd)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ovflowd.png">
-  </details>
-- [Chege Bryan](https://github.com/ChegeBryan)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ChegeBryan.png">
-  </details>
-- [Clark](https://github.com/ms314006)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ms314006.png">
-  </details>
 
 ## D
 
-- [dahhd](https://github.com/dahhd)
-    <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/dahhd.png">
-    </details>
-
-- [Daniel Caballero](https://github.com/danielcaballero796)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/danielcaballero.png">
-  </details>
-
-- [Dedar Alam](https://github.com/devded)
-    <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/devded.png">
-    </details>
-
-- [deep5050](https://github.com/deep5050)
-  <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/deep5050.png">
-    </details>
-
-- [DeepaPrasanna](https://github.com/DeepaPrasanna)
-  <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/DeepaPrasanna.png">
-    </details>
-
-- [deetoo](https://github.com/deetoo)
-  <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/deetoo.png">
-    </details>
-
-- [DenverCoder1](https://github.com/DenverCoder1)
-  <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/DenverCoder1.png">
-    </details>
-
-- [Devesh Kumar Singh](https://github.com/Devesh-19)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Devesh-19.png">
-  </details>
-
-- [Dineshkarthik](https://github.com/Dineshkarthik)
-    <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/Dineshkarthik.png">
-    </details>
-
-- [Dustin Kelly](https://github.com/dustin100)
-   <details>
-     <summary>Preview</summary>
-     <img src="EXAMPLES/dustin100.png">
-  </details>
 
 ## E
 
@@ -254,19 +148,11 @@ Make your Profile look good & Inspire other's.
 
 ## G
 
-- [Gustavo Soriano](https://github.com/gustavosoriano)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/soriano.png">
-  </details>
+
 
 ## H
 
-- [Halfrost](https://github.com/halfrost)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/halfrost.png">
-  </details>
+
 
 ## I
 
@@ -331,24 +217,10 @@ Make your Profile look good & Inspire other's.
 
 ## K
 
-- [Karthik Nayak](https://github.com/KarthikNayak024)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/KarthikNayak024.png">
-  </details>
 
 ## L
 
-- [Leandro Simões](https://github.com/leandrosimoes)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/leandrosimoes.png">
-  </details>
-- [Luca Fluri](https://github.com/lucafluri)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/lucafluri.jpg">
-  </details>
+
 
 ## M
 
@@ -637,69 +509,9 @@ Make your Profile look good & Inspire other's.
 
   Too large to fit, too fun to not play!
   </details>
-
+  
 ## U
-
-- [Uannabi](https://github.com/uannabi)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/uannabi.png">
-  Too large to fit, too fun to not play!
-  </details>
-
 ## V
-
-- [Vatana Chhorn](https://github.com/VatanaChhorn)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/vatana.png">
-  </details>
-- [Vedant Jajoo](https://github.com/coderjojo)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/coderjojo.png">
-  </details>
-- [Vimal Kumar](https://github.com/vimalverma558)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/vimalverma558.png">
-  </details>
-- [Vishwasa Navada K](https://github.com/vishwasnavadak)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/vishwasnavadak.png">
-  </details>
-
 ## W
-
-- [Waren Gonzaga](https://github.com/WarenGonzaga)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/WarenGonzaga.png">
-  </details>
-
-- [Waylon Walker](https://github.com/WaylonWalker)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/WaylonWalker.png">
-  </details>
-
 ## Y
-- [yashsehgal](https://github.com/yashsehgal)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/yashsehgal.png">
-  </details>
 ## Z
-
-- [zmcx16](https://github.com/zmcx16)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/zmcx16.png">
-  </details>
-
-- [ZamranxD](https://github.com/ZamranxD)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ZamranxD.png">
-  </details>
