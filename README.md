@@ -17,118 +17,25 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/ABSphreak.png">
   </details>
-- [Abhishek Sisodiya](https://github.com/sisodiya2421)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/sisodiya2421.png">
-  </details>
+
 - [acervenky](https://github.com/acervenky)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/acervenky.png">
   </details>
+  
 - [Adam Alston](https://github.com/adamalston)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/AdamAlston.png">
   </details>
-- [Adnan Azmee](https://github.com/adnanazmee)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/adnanazmee.jpg">
-  </details>
-- [Adrian Sudbury](https://github.com/asudbury)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/asudbury.png">
-  </details>
-- [Aditya Vikram Singh](https://github.com/AVS1508)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AVS1508.png">
-  </details>
-- [afc163](https://github.com/afc163)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/afc163.png">
-  </details>
-- [Ahsan Khan](https://github.com/ahsankhan26)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ahsankhan26.PNG">
-  </details>
-- [Akas Rai](https://github.com/akasrai)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/akasrai.png">
-  </details>
-- [Akash Patel](https://github.com/imakash3011)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/imakash3011.png">
-  </details>
-- [Alessandra Bilardi](https://github.com/bilardi)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/bilardi.png">
-  </details>
-- [Alfred Dagenais](https://github.com/alfreddagenais)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/alfreddagenais.png">
-  </details>
-- [Aman Ansari](https://github.com/aman-atg)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/aman-atg.png">
-  </details>
-- [Anh-Thi DINH](https://github.com/dinhanhthi)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AnhThiDINH.png">
-  </details>
-
-- [Anirudh Belwadi](https://github.com/anirudhbelwadi)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/anirudhbelwadi.png">
-  </details>
-
-- [Anurag Hazra](https://github.com/anuraghazra)
-
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/anuraghazra.png">
-  </details>
-
-- [Anushka Verma](https://github.com/verma-anushka)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/verma-anushka.png">
-  </details>
+  
 - [Ari](https://github.com/ari-hacks)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/ari-hacks.png">
   </details>
-- [Arturs Smirnovs](https://github.com/arturssmirnovs)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/arturssmirnovs.png">
-  </details>
-- [Avinal Kumar](https://github.com/avinal)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/avinal.png">
-  </details>
 
-## B
-
-
-## C
-
-
-## D
 
 
 ## E
@@ -138,48 +45,15 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/blueset.png">
   </details>
-- [Emerson Thompson](https://github.com/thompsonemerson)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/thompsonemerson.png">
-  </details>
-
-## F
-
-## G
-
-
-
-## H
 
 
 
 ## I
 
-- [Ian Sebastian Mathew](https://github.com/iansmathew)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/iansmathew.png">
-  </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Israel-Laguan.png">
-  </details>
-- [Ivan](https://github.com/imickovski)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/imickovski.png">
-  </details>
-- [Ivelin](https://github.com/Iwi4a)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/thisisivolondon.png">
-  </details>
-- [Isha2103](https://github.com/Isha2103)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Isha2103.png">
   </details>
 
 ## J
@@ -215,12 +89,14 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/JayB.png">
   </details>
 
+
 ## K
 
-
-## L
-
-
+- [Kunware Nakul Singh Bhati](https://github.com/nakulbhati)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nakulbhati.png">
+  </details>
 
 ## M
 
@@ -266,24 +142,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/murshidazher.png">
   </details>
 
-## N
-
-- [Kunware Nakul Singh Bhati](https://github.com/nakulbhati)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/nakulbhati.png">
-  </details>
-
-- [Naina Upadhyay](https://github.com/naina25)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/naina25.png">
-  </details>
-- [Nikunj Sharma](https://github.com/nouveau-riche)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/nouveau-riche.png">
-  </details>
 
 ## O
 
@@ -291,11 +149,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/OOQQ.png">
-  </details>
-- [Oscar](https://github.com/blue-1ms)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/blue-1ms.png">
   </details>
 
 ## P
@@ -344,6 +197,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
   		<summary>Preview</summary>
   		<img src="EXAMPLES/pr2tik1.png">
   </details>
+  
 - [Prasad Narkhede](https://github.com/p014ri5)
   <details>
     <summary>Preview</summary>
@@ -358,22 +212,10 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/racheliver.png">
   </details>
 
-- [Rachitt Shah](https://github.com/godslayer201)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/RachiitShah.png">
-  </details>
-
 - [Ram Prakash](https://github.com/thedoodler)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/thedoodler.png">
-  </details>
-
-- [Raushan Kumar](https://github.com/raushan606)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/raushan606.png">
   </details>
 
 - [Rafael Freitas](https://github.com/RafaelOFreitas)
@@ -382,117 +224,24 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
 
-- [Ronan D'Souza](https://github.com/ronan696)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ronan696.png">
-  </details>
-
-- [Rudraksh Kanekar](https://github.com/RudrakshK)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/RudrakshK.png">
-  </details>
-
 ## S
 
-- [Sabbir Mollah](https://github.com/SabbirMollah)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/SabbirMollah.png">
-  </details>
 - [Sarthak Mittal](https://github.com/mostlypanda)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mostlypanda.png">
   </details>
 
-- [Saurav Chamoli](https://github.com/sauravchamoli17)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/sauravchamoli.png">
-  </details>
-
-- [Shaan Khan](https://github.com/ShaanCoding)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ShaanCoding.png">
-  </details>
 - [Shawn Pereira](https://github.com/recurshawn)
   <details>
    <summary>Preview</summary>
    <img src="EXAMPLES/recurshawn.png">
   </details>
 
-- [Shree Vatsa N](https://github.com/vatsa287)
-  <details>
-   <summary>Preview</summary>
-   <img src="EXAMPLES/ShreeVatsaN.jpg">
-  </details>
-
-- [Siddharth Chandra](https://github.com/siddharth2016)
-  <details>
-   <summary>Preview</summary>
-   <img src="EXAMPLES/siddharth2016.png">
-  </details>
-
-- [Shiryel](https://github.com/shiryel)
-  <details>
-   <summary>Preview</summary>
-   <img src="EXAMPLES/shiryel.png">
-  </details>
-
-- [Simon Willison](https://github.com/simonw)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/simonw.png">
-  </details>
-- [Sindre Sorhus](https://github.com/sindresorhus)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/sindresorhus.png">
-
-  Yes, it's a GIF of a Loading Octocat!
-  </details>
-
-- [Sneha Kumari](https://github.com/Snehakri022)
-   <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Snehakri022.PNG">
-  </details>
-
 - [Srihari Kapu](https://github.com/sriharikapu)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/sriharikapu.PNG">
-  </details>
-
-- [Stanley Lim](https://github.com/Spiderpig86)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Spiderpig86.jpg">
-  </details>
-- [Sudipto Ghosh](https://github.com/pydevsg)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pydevsg.png">
-  </details>
-- [Sukru Uzel](https://github.com/suzel)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/suzel.png">
-  </details>
-
-- [Sumanth Talluri](https://github.com/Sumanth-Talluri)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Sumanth-Talluri.png">
-  </details>
-
-- [System-Glitch](https://github.com/System-Glitch)
-  <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/System-Glitch.png">
   </details>
 
 ## T
@@ -509,9 +258,4 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 
   Too large to fit, too fun to not play!
   </details>
-  
-## U
-## V
-## W
-## Y
-## Z
+
