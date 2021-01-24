@@ -29,6 +29,8 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <summary>Preview</summary>
     <img src="EXAMPLES/AdamAlston.png">
   </details>
+    
+- [Alexsandro Francisco](https://github.com/Alexsandr0x)
   
 - [Ari](https://github.com/ari-hacks)
   <details>
