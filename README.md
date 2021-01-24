@@ -6,9 +6,9 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 
 Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
 
-[Icon API](https://shields.io/)
+[Badges for README Tutorial](https://github.com/alexandresanlim/Badges4-README.md-Profile) and [API](https://shields.io/)
 
-[Git Stat API](https://github-readme-stats.vercel.app/)
+[Git Stat Tutorial](https://github-readme-stats.vercel.app/)
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
