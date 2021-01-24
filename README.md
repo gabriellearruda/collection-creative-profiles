@@ -43,7 +43,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 - [Dandara Sousa](https://github.com/dandaramcsousa)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/blueset.png">
+    <img src="EXAMPLES/dandarasousa.png">
   </details>
 
 ## E
@@ -59,7 +59,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 - [Fernanda Scovino](https://github.com/fernandascovino)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/blueset.png">
+    <img src="EXAMPLES/fernanascovino.png">
   </details>
 
 ## I
@@ -81,7 +81,7 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 - [Joao Carabetta](https://github.com/JoaoCarabetta)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/Israel-Laguan.png">
+    <img src="EXAMPLES/joaocarabetta.png">
   </details>
 
 
