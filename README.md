@@ -36,7 +36,13 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/ari-hacks.png">
   </details>
 
+## D
 
+- [Dandara Sousa](https://github.com/dandaramcsousa)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blueset.png">
+  </details>
 
 ## E
 
@@ -46,7 +52,13 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/blueset.png">
   </details>
 
+## F
 
+- [Fernanda Scovino](https://github.com/fernandascovino)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blueset.png">
+  </details>
 
 ## I
 
@@ -82,14 +94,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
 
 ## P
 
-- [Pouya Saadeghi](https://github.com/saadeghi)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/saadeghi.png">
-
-  Don't try to play it here!
-  </details>
-
 - [Pratik Kumar](https://github.com/pr2tik1)
   <details>
   		<summary>Preview</summary>
@@ -114,12 +118,6 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/thedoodler.png">
-  </details>
-
-- [Rafael Freitas](https://github.com/RafaelOFreitas)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
 
 ## S
@@ -150,11 +148,4 @@ Follow this guide: [GitHub new feature to add README on your Profile ](https://d
     <img src="EXAMPLES/Thaiane.png">
   </details>
   
-- [Tim Burgan](https://github.com/timburgan)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/timburgan.png">
-
-  Too large to fit, too fun to not play!
-  </details>
 
